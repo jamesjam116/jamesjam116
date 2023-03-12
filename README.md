@@ -6,7 +6,7 @@
 - Contact to me: shinydv412@gmail.com
 - Past Projects and Portfolio: 
   - <a href="https://anthony-profile.vercel.app">My Portfolio</a>
-  - <a href="https://github.com/best-lucky1030/NFT-Projects-Overview">My NFT Projects Overview</a>
+  - <a href="https://github.com/Aurora0116/Solana-NFT-overview">My NFT Projects Overview</a>
 
 
 <h4 align="center">
