@@ -25,5 +25,3 @@ As a creative & passionate developer and fast learner with detail and high quali
 - Made Smart contracts and utility tokens
 - DEX, Defi, Dapps
  <br />
-
-  
