@@ -5,9 +5,8 @@
 - 💖Welcome to my Github💖
 - Contact to me: shinydv412@gmail.com
 - Past Projects and Portfolio: 
-  - <a href="https://anthony-profile.vercel.app">Portfolio</a>
-  - <a href="https://github.com/best-lucky1030/NFT-Projects-Overview">NFT Projects Overview</a>
-
+  - <a href="https://anthony-profile.vercel.app">My Portfolio</a>
+  - <a href="https://github.com/best-lucky1030/NFT-Projects-Overview">My NFT Projects Overview</a>
 
 
 <h4 align="center">
@@ -16,7 +15,10 @@
 As a creative & passionate developer and fast learner with detail and high quality, I am always trying to improve development and communication processes. I love simple and elegant solutions for every problem.
 <br />
 </h4>
-  ![21](https://user-images.githubusercontent.com/125228912/224555596-b537c8de-e905-4162-b11a-777c8e3c64fc.png)
+
+  ![21](https://user-images.githubusercontent.com/125228912/224555807-43a62ed5-a5e3-4273-81c4-3e06c2bc180e.png)
+
+  
  ## 💖 Experience
 - Frontend frameworks(React,Angular,Vue,Django...)
 - Several NFT projects including Minting, Staking, Launchpad, Marketplace,EVM & Solana
