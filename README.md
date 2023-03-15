@@ -5,8 +5,8 @@
 - 💖Welcome to my Github💖
 - Contact to me: shinydv412@gmail.com
 - Past Projects and Portfolio: 
-  - <a href="https://anthony-profile.vercel.app">My Portfolio</a>
-  - <a href="https://github.com/Aurora0116/Solana-NFT-overview">My NFT Projects Overview</a>
+  - <a href="https://a-kunitaro.vercel.app">My Portfolio</a>
+  - <a href="https://github.com/Aurora0116/Solana-NFT-overview">My Blockchain Projects Overview</a>
 
 
 <h4 align="center">
