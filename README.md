@@ -32,6 +32,7 @@ As a creative & passionate developer and fast learner with detail and high quali
   
  ## 💖 Experience
 - Frontend frameworks(React,Angular,Vue,Django...)
+- Games(Unity,Unreal engine,Blockchain)
 - Several NFT projects including Minting, Staking, Launchpad, Marketplace,EVM & Solana
 - Made Smart contracts and utility tokens
 - DEX, Defi, Dapps
