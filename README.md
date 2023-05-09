@@ -7,7 +7,7 @@
 - Contact to me: yamate#6912
 - Past Projects and Portfolio: 
   - <a href="https://yamate.vercel.app">My Portfolio</a>
-  - <a href="https://github.com/yamate0116/blockchain-overview">My Fullstack Projects Overview</a>
+  - <a href="https://github.com/yamate0116/fullstack-overview">My Fullstack Projects Overview</a>
   - <a href="https://github.com/yamate0116/Solana-NFT-overview">My Blockchain Projects Overview</a>
 
 <h4 align="center">
