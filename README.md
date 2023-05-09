@@ -11,11 +11,6 @@
 
 <h4 align="center">
   <i><b> With 7 years of experience developing cutting-edge software solutions for corporate productivity.<br/>
-✔Full-stack development<br/>
-✔Web3.js development<br/>
-✔Solana ETH game development(Raffle,Auction,NFT minting,marketplace,betting...)<br/>
-✔Web and Game designer using(Adobe XD,Figma,Framer,PSD, Zeplin...)<br/>
-✔Windows App Development using C++,C#,WPF,UNITY,Phaser<br/>
 <br />
 As a creative & passionate developer and fast learner with detail and high quality, I am always trying to improve development and communication processes. I love simple and elegant solutions for every problem.
 <br />
