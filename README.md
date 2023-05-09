@@ -6,9 +6,8 @@
 - Contact to me: shinydv412@gmail.com
 - Contact to me: yamate#6912
 - Past Projects and Portfolio: 
-  - <a href="https://yamate.vercel.app">My Portfolio</a>
-  - <a href="https://github.com/yamate0116/fullstack-overview">My Fullstack Projects Overview</a>
-  - <a href="https://github.com/yamate0116/Solana-NFT-overview">My Blockchain Projects Overview</a>
+  - <a href="https://yamate.vercel.app">Development Overview</a>
+  - <a href="https://github.com/yamate0116/Solana-NFT-overview">Blockchain History</a>
 
 <h4 align="center">
   <b> With 7 years of experience developing cutting-edge software solutions for corporate productivity.<br/>
@@ -21,7 +20,7 @@ As a creative & passionate developer and fast learner with detail and high quali
 
   
  ## 💖 Experience
-- Frontend frameworks(React,Angular,Vue,Django...)
+- Frontend frameworks(React,Angular,Vue,Django,PHP...)
 - Games(Unity,Unreal engine,Blockchain)
 - Several NFT projects including Minting, Staking, Launchpad, Marketplace,EVM & Solana
 - Made Smart contracts and utility tokens
