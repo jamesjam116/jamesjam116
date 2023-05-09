@@ -11,14 +11,10 @@
 
 <h4 align="center">
   <i><b> With 7 years of experience developing cutting-edge software solutions for corporate productivity.<br/>
-✔Backend development<br/>
-✔Frontend development<br/>
+✔Full-stack development<br/>
 ✔Smart contract development<br/>
-✔ChartGPT development<br/>
 ✔Web3.js development<br/>
 ✔SEO API development<br/>
-✔ChatGPT AI BOT development<br/>
-✔Solana ETH game development(Raffle,Auction,NFT minting,marketplace,betting...)<br/>
 ✔Web and Game designer using(Adobe XD,Figma,Framer,PSD, Zeplin...)<br/>
 ✔Windows App Development using C++,C#,WPF,UNITY,Phaser<br/>
 ✔Game developer(PC,MOBILE..).<br/></i>
