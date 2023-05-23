@@ -4,10 +4,10 @@
 
 - 💖Welcome to my Github💖
 - Contact to me: shinydv412@gmail.com
-- Contact to me: yamate#6912
+- Contact to me: yamate#1234
 - Past Projects and Portfolio: 
   - <a href="https://yamate.vercel.app">Development Overview</a>
-  - <a href="https://github.com/yamate0116/Solana-NFT-overview">Blockchain History</a>
+  - <a href="https://github.com/yamate0116/Blockchain-overview">Blockchain History</a>
 
 <h4 align="center">
   <b> With 8 years of experience developing cutting-edge software solutions for corporate productivity.<br/>
