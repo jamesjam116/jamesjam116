@@ -3,10 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=Mr0XI&color=yellow)
 
 - 💖Welcome to my Github💖
-- Contact to me: shinydv412@gmail.com
-- Contact to me: yamate#1234
+- Contact to me: jamesjam.9000@gmail.com
 - Past Projects and Portfolio: 
-  - <a href="https://yamate.vercel.app">Development Overview</a>
+  - <a href="https://james.vercel.app">Development Overview</a>
   - <a href="https://github.com/yamate0116/Blockchain-overview">Blockchain History</a>
 
 <h4 align="center">
