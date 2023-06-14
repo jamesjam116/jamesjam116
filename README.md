@@ -19,17 +19,18 @@ As a creative & passionate developer and fast learner with detail and high quali
 
   
  ## 💖 Experience
-📌Website (UI / UX) Design
-📌Bubble.io
-📌Branding & Logo
-📌Shopify
-📌WordPress
-📌WooCommerce
-📌ECommerce
-📌Webflow, Squarespace, Wix
-📌JavaScript Frameworks (ReactJS, Angular, NodeJS)
-📌IOS Development
-📌Android Development
-📌PHP
-📌Blockchain + Web3.JS
+  <br />
+📌Website (UI / UX) Design<br />
+📌Bubble.io<br />
+📌Branding & Logo<br />
+📌Shopify<br />
+📌WordPress<br />
+📌WooCommerce<br />
+📌ECommerce<br />
+📌Webflow, Squarespace, Wix<br />
+📌JavaScript Frameworks (ReactJS, Angular, NodeJS)<br />
+📌IOS Development<br />
+📌Android Development<br />
+📌PHP<br />
+📌Blockchain + Web3.JS<br />
  <br />
