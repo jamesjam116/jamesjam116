@@ -19,9 +19,17 @@ As a creative & passionate developer and fast learner with detail and high quali
 
   
  ## 💖 Experience
-- Frontend frameworks(React,Angular,Vue,Django,PHP...)
-- Backend frameworks such as Node.js PHP Python Asp.net etc...
-- Several NFT projects including Minting, Staking, Launchpad, Marketplace,EVM & Solana
-- Made Smart contracts and utility tokens
-- DEX, Defi, Dapps
+📌Website (UI / UX) Design
+📌Bubble.io
+📌Branding & Logo
+📌Shopify
+📌WordPress
+📌WooCommerce
+📌ECommerce
+📌Webflow, Squarespace, Wix
+📌JavaScript Frameworks (ReactJS, Angular, NodeJS)
+📌IOS Development
+📌Android Development
+📌PHP
+📌Blockchain + Web3.JS
  <br />
