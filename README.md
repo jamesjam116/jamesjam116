@@ -8,7 +8,7 @@
   - <a href="https://github.com/yamate0116/Blockchain-overview">Blockchain History</a>
 
 <h4 align="center">
-  <b> With 8 years of experience developing cutting-edge software solutions for corporate productivity.<br/>
+  <b> With 8+ years of experience developing cutting-edge software solutions for corporate productivity.<br/>
 <br />
 As a creative & passionate developer and fast learner with detail and high quality, I am always trying to improve development and communication processes. I love simple and elegant solutions for every problem.
 <br />
