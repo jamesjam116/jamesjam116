@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Mr0XI&color=yellow)
 
 - 💖Welcome to my Github💖
-- Contact to me: yamate#1234
+
 - Past Projects and Portfolio: 
   - <a href="https://github.com/yamate0116/Blockchain-overview">Blockchain History</a>
 
@@ -14,7 +14,6 @@ As a creative & passionate developer and fast learner with detail and high quali
 <br />
 </h4>
 
-![92ccd7f38ee1403885bb080fa0801723](https://github.com/yamate0116/yamate0116/assets/125228912/f13e2d13-1b83-4f74-983a-bc3a01eb76ef)
 
 
   
