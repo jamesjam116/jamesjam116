@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
 - 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
-- Contact to me: alexsakai.ventures@gmail.com
 - Past Projects and Portfolio: 
-  - <a href="https://ventures.vercel.app">Portfolio</a>
-  - <a href="https://github.com/venture1981/NFT-Projects-Overview">NFT Projects Overview</a>
+    - <a href="https://github.com/venture1981/NFT-Projects-Overview">My Blockchain History</a>
 
 <h4 align="center">
   <i><b>8 years of experience with Software(web and app) development and 3 years of Blockchain Space.</i>
@@ -37,12 +35,8 @@ As a creative & passionate developer, and fast learner with detail and high qual
 
 ![](https://pbs.twimg.com/profile_banners/1480769564245999618/1645162290/1500x500) -->
   
-## 👨‍💻 Currently working in Kokeshi MV [Website](https://www.kokeshimv.com), [Twitter](https://twitter.com/KokeshiMv), and [Discord](https://discord.gg/kokeshimv) as Developer.
-
 <!-- ![](https://minionicious.files.wordpress.com/2016/08/dave2.png) -->
 <!-- ![CWS](https://user-images.githubusercontent.com/89365150/202695915-8e27499d-c325-49e8-8d1e-9e8ccd88d673.png) -->
-![KokeshiMV](https://user-images.githubusercontent.com/89365150/231889036-afd7e3e8-ff3b-4d10-93af-1b346c43bc73.png)
-
 
 
 ## 🌱 Experience
