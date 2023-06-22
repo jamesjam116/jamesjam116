@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
 - Past Projects and Portfolio: 
-    - <a href="https://github.com/venture1981/NFT-Projects-Overview">My Blockchain History</a>
+    - <a href="https://github.com/yamate0116/Blockchain-overview">My Blockchain History</a>
 
 <h4 align="center">
   <i><b>8 years of experience with Software(web and app) development and 3 years of Blockchain Space.</i>
@@ -28,7 +28,6 @@ As a creative & passionate developer, and fast learner with detail and high qual
 <br />
 </h4>
 
-<i><h2 align="center">🎃 "Just one small positive thought in the morning can change your whole day" 👌 </h2></i>
 <h4 align="center">(๑′ᴗ‵๑)Ｉ Lᵒᵛᵉᵧₒᵤ♡ Coding (๑′ᴗ‵๑)</h4>
 
 <!-- ## 👨‍💻 Currently working in [MetaKongz](https://www.metakongz.art) as Team Member and [Discord](https://discord.gg/metakongzgc) Server.
