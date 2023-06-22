@@ -45,10 +45,7 @@ As a creative & passionate developer, and fast learner with detail and high qual
 - Built P2E Games like Dice, Spinner(Roulette), RNGs(Random Number Generators), Moonshot, CoinFlip
 - Made Smart contracts and utility tokens
 - DEX, Defi, DAO, Dapps
-  
 
-<details>
-  <summary align="center">More about me</summary>
   
 ⚡ These are languages and frameworks I mostly use:
   
@@ -61,5 +58,4 @@ As a creative & passionate developer, and fast learner with detail and high qual
 - Node or Python or Go or Ruby or Laravel
 - MongoDB or MySQL or Postgre or Oracle
 
-</details>
   
