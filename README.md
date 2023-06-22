@@ -46,11 +46,6 @@ As a creative & passionate developer, and fast learner with detail and high qual
 - Made Smart contracts and utility tokens
 - DEX, Defi, DAO, Dapps
   
-## 📈 Github Status
-<p>
-<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venture1981&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=yamate0116&sshow_icons=true&theme=radical&count_private=true">
-</p>
 
 <details>
   <summary align="center">More about me</summary>
