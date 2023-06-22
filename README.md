@@ -52,10 +52,12 @@ As a creative & passionate developer, and fast learner with detail and high qual
   
 ⚡ These are languages and frameworks I mostly use:
   
+- React/Next.js or Vue/Nuxt.js or Angular
+- Wordpress or Shopify
+- Ruby on Rails and Bubble.io
 - Rust and Anchor framework
 - Solidity programming (ERC-20, 721, 721A, 1155) to write various contracts
 - Web3 integration
-- React/Next.js or Vue/Nuxt.js or Angular
 - Node or Python or Go or Ruby or Laravel
 - MongoDB or MySQL or Postgre or Oracle
 
