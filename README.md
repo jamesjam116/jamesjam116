@@ -50,3 +50,4 @@ As a creative & passionate developer, and fast learner with detail and high qual
 - Figma AdobeXD Webflow design
 
   
+- Currently working as a Lead Developer of Uber Pos Company (uber.easyposapp.com)
