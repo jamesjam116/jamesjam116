@@ -28,7 +28,7 @@ As a creative & passionate developer, and fast learner with detail and high qual
 </h4>
 
 
-## 🌱Cryptocurrency Blockchain Experience
+🌱Cryptocurrency Blockchain Experience
 
 - Various kinds of Websites and Applications such as B2B, B2C, CRM, Rental Estate, Booking, Fintech, Fitness, Ecommerce platforms, etc
 - Several NFT projects including Minting, Staking, Evolution/Breeding, Raffle/Auction houses, Launchpad, Marketplace
@@ -48,6 +48,5 @@ As a creative & passionate developer, and fast learner with detail and high qual
 - Node or Python or Go or Ruby or Laravel
 - MongoDB or MySQL or Postgre or Oracle
 - Figma AdobeXD Webflow design
-
   
-⚡ Currently working as a Lead Developer of Uber Pos Company (uber.easyposapp.com)
+💖 Currently working as a Lead Developer of Uber Pos Company (uber.easyposapp.com)
