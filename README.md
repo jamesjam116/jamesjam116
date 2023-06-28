@@ -36,8 +36,8 @@ As a creative & passionate developer, and fast learner with detail and high qual
 - Made Smart contracts and utility tokens
 - DEX, Defi, DAO, Dapps
 
-  
-⚡ Full-stack development Experience
+
+  ⚡ Full-stack development Experience
   
 - React/Next.js or Vue/Nuxt.js or Angular
 - Wordpress or Shopify , Ecommerce (Wix, Elementor)
