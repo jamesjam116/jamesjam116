@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Past Projects and Portfolio: 
     - <a href="https://github.com/yamate0116/Blockchain-overview">My Blockchain History</a>
 <h4 align="center">
-  <i><b>8 years of experience with Software(web and app) development and 3 years of Blockchain Space.</i>
+  <i><b>8 years of experience with Software(Web and App) development and 3 years of Blockchain Space.</i>
 <br />
 As a creative & passionate developer, and fast learner with detail and high quality, I am always trying to improve development and communication processes. I love simple and elegant solutions for every problem.
 <br />
