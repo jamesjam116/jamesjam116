@@ -35,4 +35,3 @@ As a creative & passionate developer, and fast learner with detail and high qual
 - MongoDB or MySQL or Postgre or Oracle
 - Figma AdobeXD Webflow design
   
-💖 Currently working as a Lead Developer of AssetDash company
