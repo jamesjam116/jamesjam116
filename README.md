@@ -1,23 +1,10 @@
 Welcome to My Github👋
 
-<!--
-**best-lucky1030/best-lucky1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Screenshot_30](https://github.com/yamate0116/yamate0116/assets/125228912/22bd6d52-fce6-4d46-a255-b442e58e06d0)
 
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
-- 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
+
 - Past Projects and Portfolio: 
     - <a href="https://github.com/yamate0116/Blockchain-overview">My Blockchain History</a>
 <h4 align="center">
@@ -49,4 +36,4 @@ As a creative & passionate developer, and fast learner with detail and high qual
 - MongoDB or MySQL or Postgre or Oracle
 - Figma AdobeXD Webflow design
   
-💖 Currently working as a Lead Developer of FishCake company
+💖 Currently working as a Lead Developer of AssetDash company
