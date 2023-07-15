@@ -1,6 +1,6 @@
 Welcome to My Github👋
+![Uploading Screenshot_30.png…]()
 
-![Screenshot_30](https://github.com/yamate0116/yamate0116/assets/125228912/22bd6d52-fce6-4d46-a255-b442e58e06d0)
 
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
