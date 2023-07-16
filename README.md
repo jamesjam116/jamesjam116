@@ -1,5 +1,5 @@
 ![Screenshot_30](https://github.com/yamate0116/yamate0116/assets/125228912/7f71a62c-6eb5-4618-badc-3faa49dd688d)
-<i><h2 align="center">🎃Currently working as a Frontend Web3 developer of AssetDash</h2></i>
+<h2 align="center">🎃Currently working as a Frontend Web3 developer of AssetDash</h2>
 
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
