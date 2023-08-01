@@ -1,6 +1,4 @@
 
-<h2 align="center">🎃![A day in the life of a software developer](https://github.com/yamate0116/yamate0116/assets/125228912/55f5fb61-95db-457c-a06f-e14bcf9177c9)
-Currently working as a Frontend Web3 developer of AssetDash</h2>
 
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
