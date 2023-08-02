@@ -84,17 +84,13 @@ As a creative & passionate developer, and fast learner with detail and high qual
 ## 🏆 My Github Stats
 
 <div>
-    <a href="https://github-readme-stats.vercel.app/api?username=jhondevcode&show_icons=true&theme=tokyonight">
+    <a href="https://github-readme-stats.vercel.app/api?username=yamate0116&show_icons=true&theme=tokyonight">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhondevcode&show_icons=true&theme=tokyonight">
     </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondevcode&layout=compact&langs_count=10&theme=tokyonight">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhondevcode&layout=compact&langs_count=10&theme=tokyonight">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yamate0116&layout=compact&langs_count=10&theme=tokyonight">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamate0116&layout=compact&langs_count=10&theme=tokyonight">
     </a>
 </div>
-
-[website]: https://jhondevcode.github.io
-[linkedin]: https://www.linkedin.com/in/jhon-samuel-fernandez-gutierrez-4488b6200
-[mail]: mailto:jhondev.code@gmail.com
 
 <br />
   
