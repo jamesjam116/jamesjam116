@@ -1,8 +1,6 @@
 ![V7C](https://github.com/yamate0116/yamate0116/assets/125228912/d33328b8-5fd5-4e77-85bb-1fdcb665bc85)
 
-
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
-
 
 - Past Projects and Portfolio: 
     - <a href="https://github.com/yamate0116/Blockchain-overview">My Blockchain History</a>
@@ -13,18 +11,14 @@ As a creative & passionate developer, and fast learner with detail and high qual
 <br />
 </h4>
 
-
 🌱Cryptocurrency Blockchain Experience
-
 - Various kinds of Websites and Applications such as B2B, B2C, CRM, Rental Estate, Booking, Fintech, Fitness, Ecommerce platforms, etc
 - Several NFT projects including Minting, Staking, Evolution/Breeding, Raffle/Auction houses, Launchpad, Marketplace
 - Built P2E Games like Dice, Spinner(Roulette), RNGs(Random Number Generators), Moonshot, CoinFlip
 - Made Smart contracts and utility tokens
-- DEX, Defi, DAO, Dapps
-
+- DEX, Defi, DAO, Dapp
 
 ⚡ Full-stack development Experience
-  
 - React/Next.js or Vue/Nuxt.js or Angular
 - Wordpress or Shopify , Ecommerce (Wix, Elementor)
 - Ruby on Rails and Bubble.io
