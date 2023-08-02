@@ -1,5 +1,6 @@
 
 ![9Qvf](https://github.com/yamate0116/yamate0116/assets/125228912/b237e785-2ff7-4710-bcbf-389df6b9b78d)
+<img src="[https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=61DBFB](https://github.com/yamate0116/yamate0116/assets/125228912/b237e785-2ff7-4710-bcbf-389df6b9b78d)" alt="Redux logo" title="Redux" height="20" />
 
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
