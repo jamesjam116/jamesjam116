@@ -10,13 +10,7 @@
 As a creative & passionate developer, and fast learner with detail and high quality, I am always trying to improve development and communication processes. I love simple and elegant solutions for every problem.
 <br />
 </h4>
-## ✉ Find me
 
-<p align="center">
-    <a href="https://jhondevcode.github.io/" target="_blank" rel="noopener noreferrer"><img src="./icons/social/world.png" alt="Web" style="vertical-align:top; margin:4px"> </a>
-    <a href="https://www.linkedin.com/in/jhon-samuel-fernandez-gutierrez-4488b6200/" target="_blank" rel="noopener noreferrer"><img src="./icons/social/linkedin.png" alt="Linkedin"  style="vertical-align:top; margin:4px"></a>
-    <a href="mailto:jhondev.code@gmail.com"><img src="./icons/social/gmail.png" alt="Gmail" style="vertical-align:top; margin:4px"></a>
-</p>
 🌱Cryptocurrency Blockchain Experience
 - Various kinds of Websites and Applications such as B2B, B2C, CRM, Rental Estate, Booking, Fintech, Fitness, Ecommerce platforms, etc
 - Several NFT projects including Minting, Staking, Evolution/Breeding, Raffle/Auction houses, Launchpad, Marketplace
@@ -85,7 +79,7 @@ As a creative & passionate developer, and fast learner with detail and high qual
 
 <div>
     <a href="https://github-readme-stats.vercel.app/api?username=yamate0116&show_icons=true&theme=tokyonight">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhondevcode&show_icons=true&theme=tokyonight">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=yamate0116&show_icons=true&theme=tokyonight">
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yamate0116&layout=compact&langs_count=10&theme=tokyonight">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamate0116&layout=compact&langs_count=10&theme=tokyonight">
