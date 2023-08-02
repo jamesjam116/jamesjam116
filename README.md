@@ -18,16 +18,6 @@ As a creative & passionate developer, and fast learner with detail and high qual
 - Made Smart contracts and utility tokens
 - DEX, Defi, DAO, Dapp
 
-⚡ Full-stack development Experience
-- React/Next.js or Vue/Nuxt.js or Angular
-- Wordpress or Shopify , Ecommerce (Wix, Elementor)
-- Ruby on Rails and Bubble.io
-- Rust and Anchor framework
-- Solidity programming (ERC-20, 721, 721A, 1155) to write various contracts
-- Web3 integration(Solana,Ethereum,SUI,Polygon)
-- Node or Python or Go or Ruby or Laravel
-- MongoDB or MySQL or Postgre or Oracle
-- Figma AdobeXD Webflow design
 
 - ## - WHAT DO I DO?
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
