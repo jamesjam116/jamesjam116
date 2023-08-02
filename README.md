@@ -76,6 +76,10 @@ As a creative & passionate developer, and fast learner with detail and high qual
 &nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="20" />
 &nbsp;
+<img src="https://img.shields.io/badge/docker-282C34?logo=Docker&logoColor=007ACC" alt="Docker logo" title="Docker" height="20" />
+&nbsp;
+<img src="https://img.shields.io/badge/firebase-282C34?logo=firebase&logoColor=FFCB2B" alt="firebase logo" title="firebase" height="20" />
+&nbsp;
 
 ## 🏆 My Github Stats
 
@@ -91,9 +95,6 @@ As a creative & passionate developer, and fast learner with detail and high qual
 [website]: https://jhondevcode.github.io
 [linkedin]: https://www.linkedin.com/in/jhon-samuel-fernandez-gutierrez-4488b6200
 [mail]: mailto:jhondev.code@gmail.com
-<img src="https://img.shields.io/badge/docker-282C34?logo=Docker&logoColor=007ACC" alt="Docker logo" title="Docker" height="20" />
-&nbsp;
-<img src="https://img.shields.io/badge/firebase-282C34?logo=firebase&logoColor=FFCB2B" alt="firebase logo" title="firebase" height="20" />
-&nbsp;
+
 <br />
   
