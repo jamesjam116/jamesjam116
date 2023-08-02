@@ -1,5 +1,4 @@
-<img src="https://github.com/yamate0116/yamate0116/assets/125228912/b237e785-2ff7-4710-bcbf-389df6b9b78d" style="width: 100%;" alt="Image">
-
+![V7C](https://github.com/yamate0116/yamate0116/assets/125228912/d33328b8-5fd5-4e77-85bb-1fdcb665bc85)
 
 
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
