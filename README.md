@@ -1,7 +1,7 @@
 
-
+<div style="width:100%;">
 ![9Qvf](https://github.com/yamate0116/yamate0116/assets/125228912/b237e785-2ff7-4710-bcbf-389df6b9b78d)
-
+</div>
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
 
