@@ -1,6 +1,7 @@
 
-![Screenshot_1](https://github.com/yamate0116/yamate0116/assets/125228912/342b58d3-8ff5-41df-8ff4-0902c1bb8308)
 <h1 align="center">Currently working on BitmapEmpires</h1>
+
+![Screenshot_1](https://github.com/yamate0116/yamate0116/assets/125228912/342b58d3-8ff5-41df-8ff4-0902c1bb8308)
 
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
@@ -79,16 +80,4 @@ As a creative & passionate developer, and fast learner with detail and high qual
 <img src="https://img.shields.io/badge/firebase-282C34?logo=firebase&logoColor=FFCB2B" alt="firebase logo" title="firebase" height="20" />
 &nbsp;
 
-## 🏆 My Github Stats
-
-<div>
-    <a href="https://github-readme-stats.vercel.app/api?username=yamate0116&show_icons=true&theme=tokyonight">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=yamate0116&show_icons=true&theme=tokyonight">
-    </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yamate0116&layout=compact&langs_count=10&theme=tokyonight">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamate0116&layout=compact&langs_count=10&theme=tokyonight">
-    </a>
-</div>
-
-<br />
   
