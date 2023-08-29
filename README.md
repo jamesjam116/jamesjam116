@@ -1,9 +1,10 @@
-![V7C](https://github.com/yamate0116/yamate0116/assets/125228912/d33328b8-5fd5-4e77-85bb-1fdcb665bc85)
 
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
 - Past Projects and Portfolio: 
     - <a href="https://github.com/yamate0116/Blockchain-overview">My Blockchain History</a>
+    - <a href="https://www.jamesjam.today">My Website</a>
+    - <a href="https://dribbble.com/jamesjams">My Dribbble</a>
 <h4 align="center">
   <i><b>8 years of experience with Software(Web and App) development and 3 years of Blockchain Space.</i>
 <br />
