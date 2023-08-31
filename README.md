@@ -10,7 +10,7 @@
     - <a href="https://www.jamesjam.today">My Website</a>
     - <a href="https://dribbble.com/jamesjams">My Dribbble</a>
 <h4 align="center">
-  <i><b>8 years of experience with Software(Web and App) development and 3 years of Blockchain Space.</i>
+  <i><b>9 years of experience with Software(Web and App) development and 5 years of Blockchain Space.</i>
 <br />
 As a creative & passionate developer, and fast learner with detail and high quality, I am always trying to improve development and communication processes. I love simple and elegant solutions for every problem.
 <br />
