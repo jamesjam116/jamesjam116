@@ -1,7 +1,4 @@
 
-<h1 align="center">Currently working on BitmapEmpires</h1>
-
-![Screenshot_1](https://github.com/yamate0116/yamate0116/assets/125228912/342b58d3-8ff5-41df-8ff4-0902c1bb8308)
 
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
