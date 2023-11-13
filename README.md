@@ -2,9 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
+<div>
     - <a href="https://github.com/jamesjam116/Blockchain-overview">My Blockchain History</a>
     - <a href="https://www.jamesjam.today">My Website</a>
     - <a href="https://dribbble.com/jamesjams">My Dribbble</a>
+</div>
 
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
 &nbsp;
