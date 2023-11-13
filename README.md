@@ -6,22 +6,7 @@
     - <a href="https://github.com/jamesjam116/Blockchain-overview">My Blockchain History</a>
     - <a href="https://www.jamesjam.today">My Website</a>
     - <a href="https://dribbble.com/jamesjams">My Dribbble</a>
-<h4 align="center">
-  <i><b>9 years of experience with Software(Web and App) development and 5 years of Blockchain Space.</i>
-<br />
-As a creative & passionate developer, and fast learner with detail and high quality, I am always trying to improve development and communication processes. I love simple and elegant solutions for every problem.
-<br />
-</h4>
 
-🌱Cryptocurrency Blockchain Experience
-- Various kinds of Websites and Applications such as B2B, B2C, CRM, Rental Estate, Booking, Fintech, Fitness, Ecommerce platforms, etc
-- Several NFT projects including Minting, Staking, Evolution/Breeding, Raffle/Auction houses, Launchpad, Marketplace
-- Built P2E Games like Dice, Spinner(Roulette), RNGs(Random Number Generators), Moonshot, CoinFlip
-- Made Smart contracts and utility tokens
-- DEX, Defi, DAO, Dapp
-
-
-- ## - WHAT DO I DO?
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/Rust-282C34?logo=Rust&logoColor=E34F26" alt="Rust logo" title="Rust" height="20" /></span>
