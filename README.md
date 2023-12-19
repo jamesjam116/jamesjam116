@@ -56,24 +56,3 @@
 &nbsp;
 <img src="https://img.shields.io/badge/firebase-282C34?logo=firebase&logoColor=FFCB2B" alt="firebase logo" title="firebase" height="20" />
 &nbsp;
-
-  
-
-<div align="center">
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Github stats">
-    </td>
-    <td valign="top" width="40%">
-      <h2 align="center">🏆 Trophys</h2>
-      <img src="https://github-profile-trophy.vercel.app/?username=jamesjam116&theme=onedark" width="100%" alt="trophy">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="6" valign="center">
-      <img src="./github-metrics.svg" alt="Metrics">
-    </td>
-  </tr>
-</table>
-</div>
